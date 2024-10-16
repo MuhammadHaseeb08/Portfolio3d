@@ -513,7 +513,7 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
-    live: "http://nareshkhatri.vercel.app",
+    live: "https://portfolio3d-vert.vercel.app/",
     github:"https://github.com/MuhammadHaseeb08/Portfolio3d.git",
     skills: {
       frontend: [
